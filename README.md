@@ -1,8 +1,6 @@
-# bootstrap-instituto
-Site da de um Instituto de educação para reforço escolar
 
 # PROJETO INSTITUTO BEZALEL 
-
+Site da de um Instituto de educação para reforço escolar
 
 `CURSO: Sistemas de Informação`
 

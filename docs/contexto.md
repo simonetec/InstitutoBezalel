@@ -1,29 +1,29 @@
-#1. INTRODUÇÃO#
+##1. INTRODUÇÃO
 
 O projeto visa preencher as lacunas na área da educação. Dados mostram que crianças não sabem aprender tudo sozinhas e necessitam de reforço escolar, no entanto não somente deve ser auxiliada nos deveres de casa, mas incentivada a aprender a aprender e a gostar de aprender através da perda do medo e trava que o impedem de aprender devido a bloqueios criados desde cedo por pais, educadores e do meio em que vivem.
 
 
-#1.1. Problema#
+##1.1. Problema
 
 O Instituto Bezalel notou a dificuldade que os pais têm para encontrarem professores de reforço escolar de confiança e dedicados ao propósito de ensinar seus filhos a terem sucesso em seus estudos. Percebeu-se também a dificuldade que os alunos tem de criarem autonomia nos estudos, pois estão engessados na forma que aprenderam a aprender.
 80 % de pais sofrem com o “para casa” que recebem da escola e não tem uma forma útil de ensinarem seus filhos nessas tarefas que cada dia mais se tornam exaustivas para eles, pois maioria dos pais são multitarefas e precisam de ajuda nesta área.
 Os pais tem dificuldade em participar da educação dos filhos e de acompanhar o trabalho que está sendo feito
 
 
-#1.2. Objetivos do trabalho#
+##1.2. Objetivos do trabalho
 
 A pandemia  mostrou que a internet pode ajudar os pais nesta jornada, e o projeto Instituto Bezalel vai aproximar os pais dos educadores, vai informa-los do trabalho feito na instituição e apresentar os resultados alcançados.
 O projeto visa trazer os pais para a vida educacional do filho e entender suas dificuldades. Apresentará os tipos de alunos através de resultados de diagnostico e pesquisas recentes e onde buscar ajuda.
 Acessibilidade (para pessoas com deficiência)
 Fazer com que o usuário tenha boas emoções e sentimentos ao interagir com o sistema, imersão.
 
-#1.3. Justificativa#
+##1.3. Justificativa
 
 A importância desta aplicação web é a interação com o usuário (pai). A privacidade e a experiência que ele terá são importantíssimas. A comunicação é o meio para o usuário participar da educação do seu filho sem trazer problemas para dentro de casa.
 MISSÃO:
 
 
-#1.4. Público alvo#
+##1.4. Público alvo
 
 Alunos, pais, educadores, professores e interessados em aprender táticas de ensino são o público alvo. Inclusive escolas e igrejas que interessarem para aproveitarem ideias e materiais de uso do Instituto. Estes usuários são pessoas que entendem o mínimo de tecnologia pois encontrarão na aplicação web: usabilidade, facilidade, acessibilidade, podendo usufruir do site sem discriminação. 
 

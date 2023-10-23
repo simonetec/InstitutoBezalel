@@ -23,7 +23,7 @@ Site da de um Instituto de educação para reforço escolar
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1         |[Documentação de Contexto]() <br> |
+| ETAPA 1         |[Documentação de Contexto](docs/contexto.md) <br> |
 | ETAPA 2         |[Planejar, desenvolver e gerenciar APIs e Web Services]() <br> |
 | ETAPA 3         |[Planejar, desenvolver e gerenciar uma aplicação Web]() |
 | ETAPA 4        |[Planejar, desenvolver e gerenciar uma aplicação Móvel]() <br>  |
